@@ -1,0 +1,33 @@
+{
+  "15as2231-17b7-6963-hj7b-d45488d3df64": {
+    "apiProducts": [
+      "Cool API"
+    ],
+    "email": "filan@fisteku.com",
+    "metadata": {
+      "rateLimit": {
+        "requests_per_unit": 10,
+        "unit": "SECOND"
+      },
+      "team": "Team Filani",
+      "usagePlan": "bronze"
+    },
+    "username": "Filan Fisteku"
+  },
+  "05df9055-04b4-44f0-ae2b-d4543df64d88": {
+    "apiProducts": [
+      "Track APIs",
+      "Product Page APIs"
+    ],
+    "email": "john@doe.com",
+    "metadata": {
+      "rateLimit": {
+        "requests_per_unit": 10,
+        "unit": "HOUR"
+      },
+      "team": "Team X",
+      "usagePlan": "gold"
+    },
+    "username": "John Doe"
+  }
+}
